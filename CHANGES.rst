@@ -19,6 +19,7 @@ New Features in 0.4.0
 - The labgrid client SSH command is now able to instantiate the SSHDriver when
   there are multiple NetworkService resources available.
 - Exporter now checks /usr/sbin/ser2net for SerialPortExport
+- Add exporter argument --ser2net-port.
 
 Bug fixes in 0.4.0
 ~~~~~~~~~~~~~~~~~~
