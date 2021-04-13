@@ -16,6 +16,8 @@ New Features in 0.4.0
   The 256-color schemes now use purple instead of green for the ``run`` lines to
   make them easier distinguishable from pytest's "PASSED" output.
 - Network controlled relay providing GET/PUT based REST API
+- The labgrid client SSH command is now able to instantiate the SSHDriver when
+  there are multiple NetworkService resources available.
 
 Bug fixes in 0.4.0
 ~~~~~~~~~~~~~~~~~~
